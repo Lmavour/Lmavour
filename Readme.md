@@ -5,7 +5,7 @@
   <h1>lmavour — Batara Krisna Danduru</h1>
   <p><strong>Backend dev • Vibe coder</strong></p>
   <p>
-    Modern • Biru muda • Kreatif • Senang belajar hal baru
+    Modern • Senang belajar hal baru
   </p>
 
   <!-- Badges (dummy) -->
@@ -57,13 +57,7 @@ Aku senang membuat sistem yang sederhana, ringan, dan cepat, serta eksplorasi ar
 - Twitter: https://twitter.com/lmavour (dummy)
 - Facebook: https://facebook.com/lmavour (dummy)
 
-## Catatan
 
-- README dalam bahasa Indonesia, gaya modern, warna utama biru muda.
-- Animasi Pac‑Man menggunakan SVG di bagian hero.
-- Silakan ganti tautan dummy dengan yang asli kapan siap.
-
----
 
 <details>
   <summary>Credits</summary>
