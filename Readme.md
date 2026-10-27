@@ -9,7 +9,7 @@
     <a href="https://x.com/batara_of">X</a>
   </p>
 
-  <img src="https://files.catbox.moe/35xbc1.svg" alt="Pac-Man banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Terminal banner: Small steps. Better code." width="100%" />
 
 </div>
 
@@ -46,6 +46,6 @@ Still learning, still experimenting, and taking it one step at a time.
 
 <details>
   <summary>Credits</summary>
-  <p>Pac-Man SVG banner created for this profile.</p>
+  <p>Custom terminal-style SVG banner, stored in this repository.</p>
 </details>
 
